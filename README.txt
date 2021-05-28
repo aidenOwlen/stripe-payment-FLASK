@@ -1,0 +1,2 @@
+- Fill the form
+- Send to gmail and submit stripe payment using FLASK

@@ -1,0 +1,6 @@
+PIL
+email
+smtplib
+PyQt4
+webbrowser
+flask
